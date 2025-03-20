@@ -6,7 +6,8 @@ class MyTestCase_TheLifeOfPi(unittest.TestCase):
         restupel_nach_angabe = (
             "3.141593!",
             "    3.141593!",
-            "     3!",
+            "        3.14!",
+            "         3!",
             "3.14159265359!",
             "00000003.141593!",
             "+00000000003.14!"
